@@ -1,0 +1,26 @@
+body {
+    font font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+}
+*    {
+    box-sizing: border-box;
+}
+h1 {
+    text-align: center;
+    font-weight: bold;
+    background-color: olive;
+    width: 800px;
+    margin: auto;
+    padding: 8px white ;
+    border: 8px solid rgba(18, 169, 109, 0.928);
+    color: bisque;
+
+}
+.recipe {
+    width: 500px;
+    font-size: 22px;
+    color: black;
+    background-color: blanchedalmond;
+    padding: 16px 8px;
+    margin: 16px 8px;
+    margin-top: 50px;
+}
